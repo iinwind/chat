@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/05b05f07377cf9b4e1cbfa4341e43ca.jpg</file>
+        <file>images/7f4f3333d8cbb5a0358065be3718e5e.jpg</file>
+        <file>images/8de59ea319d949a3eb34a0f43c63b9a.jpg</file>
+        <file>images/14a9e073be5413b04d4f5dbdb6960fd.jpg</file>
+        <file>images/46a243e3fa3fcebc3af9492bf853284.jpg</file>
+        <file>images/67fdc8f9855c7c6398a9ca9fb015cbe.jpg</file>
+        <file>images/238b4dcc5251dcee3934ec3384536a0.jpg</file>
+        <file>images/379b929b92bd5574893e8b7efb9dc12.jpg</file>
+        <file>images/713c809b69dbbbca453a7b3903ae932.jpg</file>
+        <file>images/947a17d817a78d9f64d7df635b04a33.jpg</file>
+        <file>images/adfb30cdc9b622c302eabb30a608d78.jpg</file>
+        <file>images/c333fe15b8b27bb0a271f1d12d16a72.jpg</file>
+        <file>images/cf3ae8a5eba94b526522e523a1cbbe2.jpg</file>
+        <file>images/e6633e324e0cec81574e8208065ab62.jpg</file>
+        <file>images/f559909ecfaf09499cb5f30dc1d0f72.jpg</file>
+        <file>images/fd89a0c425f9c69ff294ba3cd6bcae6.jpg</file>
+        <file>images/qq.png</file>
+        <file>images/bold.png</file>
+        <file>images/italic.png</file>
+        <file>images/underline.png</file>
+        <file>images/color.png</file>
+        <file>images/save.png</file>
+        <file>images/clean.png</file>
+    </qresource>
+</RCC>
